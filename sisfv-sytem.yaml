@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: sisfv
+  description: Sistema Sisfv
+spec:
+  owner: team-sisfv
+  domain: sisfv
+  type: feature-set
